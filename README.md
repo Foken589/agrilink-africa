@@ -137,7 +137,7 @@ node test-verification.mjs
 ---
 
 ## User Personas (Switchable with 1-Click)
-
+'''These are dummy data'''
 1. **Adebayo Ogunlesi** (`Farmer / Livestock Owner` - Ogun State, Nigeria)
 2. **Ibrahim Danladi** (`Worker / Field Attendant` - Farm Hand)
 3. **Grace Mutua** (`Buyer / Supermarket Procurement` - Nairobi, Kenya)
